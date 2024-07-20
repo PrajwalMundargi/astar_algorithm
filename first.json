@@ -1,0 +1,7 @@
+{
+    "name":"harry",
+    "score":"11.75",
+    "isAdmin":true,
+    "age":20,
+    "shopItems":["soap","shampoo","hair gel"]
+}
